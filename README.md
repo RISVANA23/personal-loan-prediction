@@ -1,5 +1,5 @@
 # personal-loan-prediction
-# Personal Loan Prediction System
+
 
 This project predicts whether a customer will accept a personal loan 
 using machine learning techniques.
